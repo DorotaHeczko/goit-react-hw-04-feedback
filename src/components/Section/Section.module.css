@@ -1,0 +1,15 @@
+.box {
+  display: flex;
+  gap:20px;
+  width: 450px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 25px;
+  border-radius: 50px;
+box-shadow: -3px -1px 100px -19px rgba(224, 117, 53, 1);
+}
+
+h2 {
+  text-align: center;
+   color: rgb(198, 132, 10);
+}

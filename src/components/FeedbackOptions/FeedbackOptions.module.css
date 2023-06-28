@@ -1,0 +1,23 @@
+
+.button {
+ padding: 20px;
+  font-size: 15px;
+  border-radius: 15px;
+  cursor: pointer;
+  border: none;
+  font-weight: 600;
+  :hover {
+    scale: 1.05;
+  }
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.btnNames {
+  display: flex;
+}
+

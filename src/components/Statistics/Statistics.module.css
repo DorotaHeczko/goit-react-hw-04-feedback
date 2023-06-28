@@ -1,0 +1,11 @@
+.listItem {
+ list-style: none;
+ display: flex;
+ flex-direction: column;
+
+}
+
+.listName {
+  font-size: 20px;
+
+}
